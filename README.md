@@ -33,3 +33,7 @@ Bibliothèques Encodeur / Bouton :
 Bibliothèque Leds RGB neoPixel WS2812b
 
 * https://github.com/adafruit/Adafruit_NeoPixel
+
+Bibliothèque SDFAT
+
+* https://github.com/greiman/SdFat.git
